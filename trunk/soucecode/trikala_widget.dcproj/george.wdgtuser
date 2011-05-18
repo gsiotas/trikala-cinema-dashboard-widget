@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Breakpoints</key>
+	<dict/>
+	<key>CYLastWindowPosition</key>
+	<string>{545, 136}</string>
+	<key>ContentSplitViewGeometry</key>
+	<dict>
+		<key>ContentSplitViewConfig</key>
+		<integer>8</integer>
+		<key>SplitViewConfig</key>
+		<integer>3</integer>
+		<key>_indexOfCollapsedView</key>
+		<integer>0</integer>
+		<key>sizes</key>
+		<array>
+			<string>{{0, 0}, {1186, 328}}</string>
+			<string>{{0, 338}, {1186, 455}}</string>
+		</array>
+	</dict>
+	<key>ContentViewType</key>
+	<integer>5</integer>
+	<key>DeploymentOptions</key>
+	<dict>
+		<key>CompressJavaScript</key>
+		<false/>
+		<key>Destination</key>
+		<string>localhost.default</string>
+		<key>Path</key>
+		<string>Untitled</string>
+		<key>Save</key>
+		<true/>
+		<key>SavePath</key>
+		<string>/Users/george/Desktop</string>
+		<key>WidgetDeployName</key>
+		<string>trikala_cinemas_widget.dcproj</string>
+		<key>enableSimulation</key>
+		<true/>
+		<key>simulatedHost</key>
+		<string>mac.local</string>
+	</dict>
+	<key>Design time language</key>
+	<string>en.lproj</string>
+	<key>MainSplitViewGeometry</key>
+	<dict>
+		<key>_indexOfCollapsedView</key>
+		<integer>0</integer>
+		<key>sizes</key>
+		<array>
+			<string>{{0, 0}, {197, 814}}</string>
+			<string>{{198, 0}, {1187, 814}}</string>
+		</array>
+	</dict>
+	<key>MainWindowFrame</key>
+	<string>56 43 1384 835 0 0 1440 878 </string>
+	<key>NavigatorSplitViewGeometry</key>
+	<dict>
+		<key>ContentSplitViewConfig</key>
+		<integer>5</integer>
+		<key>SplitViewConfig</key>
+		<integer>3</integer>
+		<key>_indexOfCollapsedView</key>
+		<integer>0</integer>
+		<key>sizes</key>
+		<array>
+			<string>{{0, 0}, {199, 412}}</string>
+			<string>{{0, 422}, {199, 371}}</string>
+		</array>
+	</dict>
+	<key>ResourceLogDivider</key>
+	<real>-432</real>
+	<key>ResourceLogFrame</key>
+	<string>119 240 288 359 0 0 1440 878 </string>
+	<key>Widget</key>
+	<dict>
+		<key>Objects view expanded items</key>
+		<array>
+			<array>
+				<integer>0</integer>
+			</array>
+			<array>
+				<integer>0</integer>
+				<integer>0</integer>
+			</array>
+			<array>
+				<integer>0</integer>
+				<integer>0</integer>
+				<integer>3</integer>
+			</array>
+			<array>
+				<integer>0</integer>
+				<integer>0</integer>
+				<integer>5</integer>
+			</array>
+			<array>
+				<integer>0</integer>
+				<integer>0</integer>
+				<integer>5</integer>
+				<integer>0</integer>
+			</array>
+			<array>
+				<integer>0</integer>
+				<integer>0</integer>
+				<integer>4</integer>
+			</array>
+			<array>
+				<integer>0</integer>
+				<integer>1</integer>
+			</array>
+		</array>
+		<key>Objects view last selections</key>
+		<array>
+			<array>
+				<integer>9223372036854775807</integer>
+			</array>
+		</array>
+		<key>Opened Steps</key>
+		<array>
+			<integer>0</integer>
+			<integer>1</integer>
+		</array>
+		<key>Visible StackLayout Views</key>
+		<array>
+			<string>back</string>
+		</array>
+	</dict>
+</dict>
+</plist>
