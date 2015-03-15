@@ -1,0 +1,16 @@
+<img src='http://trikala-cinema-dashboard-widget.googlecode.com/files/ScreenShot2.png' align='left' border='2'></img>
+**Γρήγορο [κατέβασμα τελευταίας έκδοσης](http://trikala-cinema-dashboard-widget.googlecode.com/files/trikala_cinemas_widgetv04.zip)**
+
+Widget για το Dashboard για Mac OS που δείχνει τις διαθέσιμες ταινίες και ώρες προβολών στους κινηματογράφους της πόλης των Τρικάλων, Θεσσαλίας.
+
+Το πρόγραμμα αρχικά κατασκευάστηκε για δικιά μου χρήση αλλά αποφάσισα να το μοιραστώ με την κοινότητα του MacOS. Οπότε εαν μένετε Τρίκαλα και θέλετε να δείτε εύκολα και γρήγορα ποιες ταινίες προβάλλονται και σε ποιον κινηματογράφο, ελπίζω αυτό το widget να σας βοηθήσει.
+
+Περιμένω τα σχόλια σας ή παρατηρήσεις για κάποιο bug ή εαν θέλετε να δείτε κάποια έξτρα λειτουργικότητα σε μελλοντικές εκδόσεις.
+
+Ευχαριστώ! <br />
+---  <br />
+**Quick [download of latest version](http://trikala-cinema-dashboard-widget.googlecode.com/files/trikala_cinemas_widget.zip)**
+
+Widget for Dashboard for Mac OS that shows the available movies and showtimes in the cinemas of the city of Trikala, Greece.
+
+##### Τελευταία Ενημέρωση - Last Updated: 22 May 2011 #####
