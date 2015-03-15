@@ -16,12 +16,12 @@
 		<integer>0</integer>
 		<key>sizes</key>
 		<array>
-			<string>{{0, 0}, {1186, 330}}</string>
-			<string>{{0, 340}, {1186, 453}}</string>
+			<string>{{0, 0}, {1238, 330}}</string>
+			<string>{{0, 340}, {1238, 453}}</string>
 		</array>
 	</dict>
 	<key>ContentViewType</key>
-	<integer>5</integer>
+	<integer>0</integer>
 	<key>DeploymentOptions</key>
 	<dict>
 		<key>CompressJavaScript</key>
@@ -52,11 +52,11 @@
 		<key>sizes</key>
 		<array>
 			<string>{{0, 0}, {197, 814}}</string>
-			<string>{{198, 0}, {1187, 814}}</string>
+			<string>{{198, 0}, {1239, 814}}</string>
 		</array>
 	</dict>
 	<key>MainWindowFrame</key>
-	<string>56 43 1384 835 0 0 1440 878 </string>
+	<string>4 43 1436 835 0 0 1440 878 </string>
 	<key>NavigatorSplitViewGeometry</key>
 	<dict>
 		<key>ContentSplitViewConfig</key>
@@ -122,11 +122,19 @@
 				<integer>0</integer>
 				<integer>2</integer>
 			</array>
+			<array>
+				<integer>0</integer>
+				<integer>1</integer>
+				<integer>4</integer>
+			</array>
 		</array>
 		<key>Objects view last selections</key>
 		<array>
 			<array>
-				<integer>5</integer>
+				<integer>0</integer>
+				<integer>1</integer>
+				<integer>4</integer>
+				<integer>0</integer>
 			</array>
 		</array>
 		<key>Opened Steps</key>

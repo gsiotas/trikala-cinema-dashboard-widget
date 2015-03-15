@@ -262,3 +262,9 @@ $.ajax({
 }//startprog
 
 
+
+
+function showwebpage(event)
+{
+    widget.openURL("https://github.com/gsiotas/trikala-cinema-dashboard-widget");
+}
