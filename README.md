@@ -1,9 +1,6 @@
 # trikala-cinema-dashboard-widget
-Widget for Dashboard for Mac OS that shows the available movies and showtimes in the cinemas of the city of Trikala, Greece.
-
-<a href="https://github.com/gsiotas/trikala-cinema-dashboard-widget/blob/master/trikala_cinemas_widget.zip">Quick download of latest version</a>
-
---- 
+<img src='https://raw.githubusercontent.com/gsiotas/trikala-cinema-dashboard-widget/master/images/ScreenShotv01.png' align='left' border='2'></img>
+**Γρήγορο [κατέβασμα τελευταίας έκδοσης](https://github.com/gsiotas/trikala-cinema-dashboard-widget/raw/master/trikala_cinemas_widget.zip)**
 
 Widget για το Dashboard για Mac OS που δείχνει τις διαθέσιμες ταινίες και ώρες προβολών στους κινηματογράφους της πόλης των Τρικάλων, Θεσσαλίας.
 
@@ -11,12 +8,11 @@ Widget για το Dashboard για Mac OS που δείχνει τις διαθ
 
 Περιμένω τα σχόλια σας ή παρατηρήσεις για κάποιο bug ή εαν θέλετε να δείτε κάποια έξτρα λειτουργικότητα σε μελλοντικές εκδόσεις.
 
-<a href="https://github.com/gsiotas/trikala-cinema-dashboard-widget/blob/master/trikala_cinemas_widget.zip">Γρήγορο κατέβασμα τελευταίας έκδοσης</a>
+Ευχαριστώ! <br />
+---  <br />
+**Quick [download of latest version](https://github.com/gsiotas/trikala-cinema-dashboard-widget/raw/master/trikala_cinemas_widget.zip)**
 
-Ευχαριστώ!
+Widget for Dashboard for Mac OS that shows the available movies and showtimes in the cinemas of the city of Trikala, Greece.
 
----
-<h5>Τελευταία Ενημέρωση - Last Updated: 22 May 2011</h5>
-
-The source code of this project was automatic transfered from Google Code in 16/03/2015
-url: <a href="https://code.google.com/p/trikala-cinema-dashboard-widget/">Google Code site</a>
+##### Τελευταία Ενημέρωση - Last Updated: 22 May 2011 #####
+<h6>This project was migrated from Google code on 16/03/2015</h6>
