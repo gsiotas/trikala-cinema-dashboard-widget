@@ -1,6 +1,6 @@
 # trikala-cinema-dashboard-widget
 <img src='https://raw.githubusercontent.com/gsiotas/trikala-cinema-dashboard-widget/master/images/ScreenShotv01.png' align='left' border='2'></img>
-**Γρήγορο [κατέβασμα τελευταίας έκδοσης](https://github.com/gsiotas/trikala-cinema-dashboard-widget/raw/master/trikala_cinemas_widget.zip)**
+**Γρήγορο [κατέβασμα τελευταίας έκδοσης](https://github.com/gsiotas/trikala-cinema-dashboard-widget/raw/master/trikala_cinemas_widgetv04.zip)**
 
 Widget για το Dashboard για Mac OS που δείχνει τις διαθέσιμες ταινίες και ώρες προβολών στους κινηματογράφους της πόλης των Τρικάλων, Θεσσαλίας.
 
@@ -10,7 +10,7 @@ Widget για το Dashboard για Mac OS που δείχνει τις διαθ
 
 Ευχαριστώ! <br />
 ---  <br />
-**Quick [download of latest version](https://github.com/gsiotas/trikala-cinema-dashboard-widget/raw/master/trikala_cinemas_widget.zip)**
+**Quick [download of latest version](https://github.com/gsiotas/trikala-cinema-dashboard-widget/raw/master/trikala_cinemas_widgetv04.zip)**
 
 Widget for Dashboard for Mac OS that shows the available movies and showtimes in the cinemas of the city of Trikala, Greece.
 
